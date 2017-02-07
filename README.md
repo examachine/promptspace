@@ -4,3 +4,4 @@ shear-warp factorization algorithm.
 
 The package also contains a GLADE GUI.
 
+Eray Ozkural, PhD
