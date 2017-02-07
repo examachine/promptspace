@@ -1,0 +1,335 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  7 FEB 2017 22:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count87
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks16
+\c@algorithm=\count88
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\c@ALC@unique=\count89
+\c@ALC@line=\count90
+\c@ALC@rem=\count91
+\c@ALC@depth=\count92
+\ALC@tlm=\skip43
+\algorithmicindent=\skip44
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count93
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+No file report.aux.
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen105
+\scratchbox=\box28
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen106
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+
+[1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `smb' on page 2 undefined on input line 40.
+
+Package epstopdf Info: Source file: <brainsmall1.eps>
+(epstopdf)                    date: 2006-11-15 03:02:40
+(epstopdf)                    size: 148247 bytes
+(epstopdf)             Output file: <brainsmall1-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-07 22:17:32
+(epstopdf)                    size: 10856 bytes
+(epstopdf)             Command: <repstopdf --outfile=brainsmall1-eps-converted-
+to.pdf brainsmall1.eps>
+(epstopdf)             \includegraphics on input line 46.
+Package epstopdf Info: Output file is already uptodate.
+<brainsmall1-eps-converted-to.pdf, id=8, 231.86626pt x 231.86626pt>
+File: brainsmall1-eps-converted-to.pdf Graphic file (type pdf)
+
+<use brainsmall1-eps-converted-to.pdf>
+Package pdftex.def Info: brainsmall1-eps-converted-to.pdf used on input line 46
+.
+(pdftex.def)             Requested size: 231.86568pt x 231.86568pt.
+ [2 <./brainsmall1-eps-converted-to.pdf>]
+Overfull \hbox (7.07643pt too wide) in paragraph at lines 83--89
+[]\OT1/cmr/m/n/12 In real life the in-ter-ac-tion of light with a three di-men-
+sional semi-transparent
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 93.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 93.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 93.
+
+LaTeX Warning: Reference `svv' on page 3 undefined on input line 96.
+
+Package epstopdf Info: Source file: <simplevolumevis.eps>
+(epstopdf)                    date: 2006-11-15 03:02:41
+(epstopdf)                    size: 885453 bytes
+(epstopdf)             Output file: <simplevolumevis-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-07 22:17:33
+(epstopdf)                    size: 7958 bytes
+(epstopdf)             Command: <repstopdf --outfile=simplevolumevis-eps-conver
+ted-to.pdf simplevolumevis.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+<simplevolumevis-eps-converted-to.pdf, id=16, 246.9225pt x 249.93375pt>
+File: simplevolumevis-eps-converted-to.pdf Graphic file (type pdf)
+
+<use simplevolumevis-eps-converted-to.pdf>
+Package pdftex.def Info: simplevolumevis-eps-converted-to.pdf used on input lin
+e 100.
+(pdftex.def)             Requested size: 246.92188pt x 249.93314pt.
+
+
+LaTeX Warning: Reference `eq:vr' on page 3 undefined on input line 108.
+
+
+LaTeX Warning: Reference `eq:vr' on page 3 undefined on input line 119.
+
+[3]
+
+LaTeX Warning: Reference `eq:vr' on page 4 undefined on input line 133.
+
+
+LaTeX Warning: Reference `grid' on page 4 undefined on input line 139.
+
+Package epstopdf Info: Source file: <grids.eps>
+(epstopdf)                    date: 2006-11-15 03:02:40
+(epstopdf)                    size: 50478 bytes
+(epstopdf)             Output file: <grids-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-02-07 22:17:34
+(epstopdf)                    size: 6467 bytes
+(epstopdf)             Command: <repstopdf --outfile=grids-eps-converted-to.pdf
+ grids.eps>
+(epstopdf)             \includegraphics on input line 157.
+Package epstopdf Info: Output file is already uptodate.
+<grids-eps-converted-to.pdf, id=27, 399.4925pt x 102.3825pt>
+File: grids-eps-converted-to.pdf Graphic file (type pdf)
+
+<use grids-eps-converted-to.pdf>
+Package pdftex.def Info: grids-eps-converted-to.pdf used on input line 157.
+(pdftex.def)             Requested size: 399.49152pt x 102.38225pt.
+
+Overfull \hbox (9.49152pt too wide) in paragraph at lines 157--158
+ [] 
+ []
+
+[4 <./simplevolumevis-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `eq:vr' on page 5 undefined on input line 167.
+
+[5 <./grids-eps-converted-to.pdf>]
+
+LaTeX Warning: Reference `alg:rc' on page 6 undefined on input line 214.
+
+
+LaTeX Warning: Reference `alg:spl' on page 6 undefined on input line 240.
+
+[6]
+
+LaTeX Warning: Reference `eq:vr' on page 7 undefined on input line 292.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 305.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 305.
+
+Overfull \hbox (3.03342pt too wide) in paragraph at lines 305--308
+\OT1/cmr/m/n/12 ef-fi-ciently, and the op-ti-miza-tion by early ray ter-mi-na-t
+ion is eas-ily achiev-
+ []
+
+[7] [8] [9]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 380.
+
+
+LaTeX Warning: Reference `alg:bf-sw' on page 10 undefined on input line 393.
+
+[10] [11]
+
+LaTeX Warning: Reference `alg:bf-sw' on page 12 undefined on input line 490.
+
+[12] [13] [14] [15] [16] [17] [18]
+Underfull \hbox (badness 1152) in paragraph at lines 791--794
+[]\OT1/cmr/m/n/12 Philippe G. Lacroute, FAST VOL-UME REN-DER-ING US-ING A
+ []
+
+[19] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1816 strings out of 493315
+ 25833 string characters out of 6137904
+ 89661 words of memory out of 5000000
+ 5260 multiletter control sequences out of 15000+600000
+ 9155 words of font info for 32 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,8n,23p,232b,762s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texliv
+e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on report.pdf (19 pages, 202113 bytes).
+PDF statistics:
+ 126 PDF objects out of 1000 (max. 8388607)
+ 86 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+

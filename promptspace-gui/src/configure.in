@@ -1,0 +1,22 @@
+# generated 2000/1/6 21:43:29 EET by exa@orion.(none)
+# using glademm V0.5.5
+#
+# newer (non customized) versions of this file go to configure.in_glade
+
+AC_INIT(promptspace-gui.cc)
+
+AM_INIT_AUTOMAKE(promptspace-gui, 0.0)
+
+GNOME_INIT
+AC_PROG_CXX
+
+AC_LANG_CPLUSPLUS
+
+AM_PATH_GTKMM(1.0.3,,
+        AC_MSG_ERROR(Cannot find GTK--: Please install Version 1.0.3+))
+source /usr/lib/gnomemmConf.sh
+AC_SUBST(GNOMEMM_INCLUDEDIR)
+AC_SUBST(GNOMEMM_LIBDIR)
+AC_SUBST(GNOMEMM_LIBS)
+
+AC_OUTPUT(Makefile)

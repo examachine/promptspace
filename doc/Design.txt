@@ -1,0 +1,18 @@
+Iterators for Volume
+--------------------
+
+Volume
+
+  Orthogonal_Slice_Iterator<int axis>(start,end) (iterate along a
+				given axis)
+  //Free_Slice_Iterator<slice size>(
+
+
+Slice -> to a volume, indicates a slice in the volume.
+
+  Line_Iterator
+
+
+....
+
+

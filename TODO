@@ -1,0 +1,28 @@
+TODO list for promptspace
+-------------------------
+
+-- make it work in both 16-bit and 24-bit true color modes.
+-- implement a GUI for basic functions
++? debug Viewing Transformation, derive it from Transformation if
+possible
+-- implement matrix caches for Transformation objects
+-- check expression templates for vector ops etc.
+-- compress and cache normal vectors
+-- compress and cache shading: L, V, I(N,L,V)
+-- implement slice and line iterators
+-- make the s/w fac code functional
+-- implement RLE encodings (transparent voxel omission) for s/w fac
+-- implement disjoint sets (early ray termination) for s/w fac
+/- correct floating point errors in code, check rounding funs
+-- implement slice animators (spherical[onion strip], cylindrical...)
+
+Changes
+-------
+
+++ fixed: correct normal vector resampling code
+++ fixed: angles of shading function doesn't seem to work
+++ correct shading function, it seems to break continuity in image
+++ fixed: point resampling doesn't seem to work well when the image is
+   big in the ray caster.
+++ correct normal vector resampling code
+++ in Camera, Ray should be an aggregate
